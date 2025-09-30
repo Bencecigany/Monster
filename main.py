@@ -1,0 +1,3 @@
+import fuggvenyek
+
+fuggvenyek.szornyekesfegyverek()
